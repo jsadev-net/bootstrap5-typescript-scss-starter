@@ -6,3 +6,5 @@ node_modules/
 
 # dist directory
 dist/
+src/css/
+src/js/
